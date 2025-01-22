@@ -1,2 +1,3 @@
 playground/playground.artifactbundle/playground-0.0.1-macosx/bin/playground filter=lfs diff=lfs merge=lfs -text
+playground/playground.artifactbundle/playground-0.0.1-linux-gnu/bin/playground filter=lfs diff=lfs merge=lfs -text
 playground/playground.artifactbundle/playground-0.0.1-linux-musl/bin/playground filter=lfs diff=lfs merge=lfs -text
