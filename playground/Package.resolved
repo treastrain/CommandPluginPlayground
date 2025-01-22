@@ -1,0 +1,15 @@
+{
+  "originHash" : "b94f0ad6b6b21900c65d20312a569fc87078cc382d5a667e6ebf7b91d2ab607c",
+  "pins" : [
+    {
+      "identity" : "artifactbundlegen",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/freddi-kit/ArtifactBundleGen",
+      "state" : {
+        "revision" : "3e136db3013a89ca2ba69cecc3e37b64931c6c6a",
+        "version" : "0.0.7"
+      }
+    }
+  ],
+  "version" : 3
+}
