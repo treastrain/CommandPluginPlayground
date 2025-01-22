@@ -13,10 +13,16 @@
           "path" : "playground-0.0.1-macosx/bin/playground"
         },
         {
-            "supportedTriples" : [
-                "x86_64-unknown-linux-gnu"
-            ],
-            "path" : "playground-0.0.1-linux-musl/bin/playground"
+          "supportedTriples" : [
+            "aarch64-unknown-linux-gnu"
+          ],
+          "path" : "playground-0.0.1-aarch64-linux-musl/bin/playground"
+        },
+        {
+          "supportedTriples" : [
+            "x86_64-unknown-linux-gnu"
+          ],
+          "path" : "playground-0.0.1-x86_64-linux-musl/bin/playground"
         }
       ]
     }
